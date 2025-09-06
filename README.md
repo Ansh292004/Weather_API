@@ -26,5 +26,5 @@ A simple weather app built with **HTML, CSS, and JavaScript** that fetches real-
 -------------------------------------------------------------------------------------------------------------------------
 📌 Note
 You need a free API key from WeatherAPI.
-Replace the key=YOUR_API_KEY in script.js with your own API key.
+Replace the "API_KEY=//your api Key"in script.js with your own API key.
 ```
