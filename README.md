@@ -21,9 +21,9 @@ A simple weather app built with **HTML, CSS, and JavaScript** that fetches real-
    ```
    git clone https://github.com/your-username/Weather_API.git
    cd Weather_API(   Navigate to the project folder    )
-   ```
+   
 -------------------------------------------------------------------------------------------------------------------------
 📌 Note
 You need a free API key from WeatherAPI.
 Replace the key=YOUR_API_KEY in script.js with your own API key.
-   
+```
