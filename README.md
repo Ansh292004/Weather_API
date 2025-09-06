@@ -19,7 +19,7 @@ A simple weather app built with **HTML, CSS, and JavaScript** that fetches real-
 - **WeatherAPI** – Real-time weather data
 ## Clone the repository
    ```
-   git clone [https://github.com/your-username/Weather_API.git] https://github.com/your-username/Weather_API.git
+   git clone [https://github.com/your-username/Weather_API.git] (https://github.com/your-username/Weather_API.git)
    cd Weather_API(   Navigate to the project folder    )
    
 -------------------------------------------------------------------------------------------------------------------------
