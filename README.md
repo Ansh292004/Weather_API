@@ -18,10 +18,10 @@ A simple weather app built with **HTML, CSS, and JavaScript** that fetches real-
 - **JavaScript (ES6)** – Fetch API, DOM manipulation
 - **WeatherAPI** – Real-time weather data
 ## Clone the repository
-   ```
+   
    git clone [https://github.com/your-username/Weather_API.git](https://github.com/your-username/Weather_API.git)
    cd Weather_API(   Navigate to the project folder    )
-   
+```   
 -------------------------------------------------------------------------------------------------------------------------
 📌 Note
 You need a free API key from WeatherAPI.
